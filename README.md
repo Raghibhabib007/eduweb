@@ -1,54 +1,59 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/eduweb)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/eduweb?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/eduweb?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/x26bQPxcFX4?style=social)](https://youtu.be/x26bQPxcFX4)
+<h1 align="center">EduWeb</h1>
+<p align="center">
+  <strong>An educational course selling website designed to empower learners worldwide.</strong>
+</p>
 
-  <br />
-  <br />
+---
 
-  <h2 align="center">eduweb - Education Website</h2>
+## Table of Contents
 
-  EduWeb is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [About](#about)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Contributing](#contributing)
 
-  <a href="https://codewithsadee.github.io/eduweb/"><strong>➥ Live Demo</strong></a>
 
-</div>
+---
 
-<br />
+## About
 
-### Demo Screeshots
+EduWeb is a platform that aims to provide high-quality educational content to learners worldwide. It offers a wide range of courses across various subjects, empowering users to enhance their skills and knowledge conveniently from anywhere.
 
-![EduWeb Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+## Features
 
-### Prerequisites
+- **Diverse Course Selection**: Explore a vast array of courses covering subjects ranging from technology to arts and humanities.
+- **User Authentication**: Securely register, log in, and manage your account to access personalized course recommendations and progress tracking.
+- **Interactive Learning Experience**: Engage with interactive quizzes, assignments, and discussions to reinforce learning.
+- **Course Reviews and Ratings**: Share feedback and read reviews from fellow learners to make informed decisions.
+- **Responsive Design**: Enjoy a seamless learning experience across devices with a mobile-friendly and responsive web design.
 
-Before you begin, ensure you have met the following requirements:
+## Prerequisites
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+To run EduWeb locally, you need the following prerequisites:
 
-### Run Locally
+- Node.js installed on your machine.
+- MongoDB database running locally or accessible via a remote connection.
 
-To run **EduWeb** locally, run this command on your git bash:
+## Installation
 
-Linux and macOS:
+1. Clone the repository:
 
-```bash
-sudo git clone https://github.com/codewithsadee/eduweb.git
-```
+   ```bash
+   git clone https://github.com/https://github.com/Raghibhabib007/eduweb.git
+Navigate to the project directory:
 
-Windows:
+bash
+Copy code
+cd eduweb
+Install dependencies:
 
-```bash
-git clone https://github.com/codewithsadee/eduweb.git
-```
+npm install
+Usage
+Start the development server:
 
-### Contact
+npm start
+Open your web browser and navigate to http://localhost:3000 to access EduWeb.
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+Contributing
+Contributions are welcome! If you have any suggestions, bug fixes, or new features to propose, please feel free to open an issue or submit a pull request.
